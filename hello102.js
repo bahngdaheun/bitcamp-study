@@ -1,3 +1,3 @@
 console.log("0");
 console.log("00");
-console.log("000");
+console.log("00340");
