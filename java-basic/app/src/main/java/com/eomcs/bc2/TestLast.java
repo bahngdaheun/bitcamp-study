@@ -1,6 +1,6 @@
 package com.eomcs.bc2;
 
-public class TestLast {
+public class TestLast {//형변환
   public static void main(String[] args) {
     int a = 234;
     double b = 78.9;

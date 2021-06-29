@@ -4,7 +4,7 @@ public class TestJumin {
 
   public static void main(String[] args) {
     //java API 참고
-    //java.lang 패키지 String 클래스의 메소드 char charAt(int)
+    //java.lang 패키지 String 클래스의 메소드 char charAt(int)=> 결과값의 데이터 타입은 char
     String min = "871024-2541965";
     //if문 써서 주민번호 뒤의 첫자리로 남자, 여자 추출할 수 있게
     //String 문자열은 0번째부터 시작
